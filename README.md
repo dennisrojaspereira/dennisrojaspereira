@@ -1,5 +1,5 @@
 # Dennis Rojas Pereira  
-**Software Architect** | 
+**Software Architect** | **Tech Lead** | **Software Engineer Manager**
 
 I am fluent in Spanish(native) and Portuguese (native), as well as proficient in English, enabling me to communicate effectively with international teams and stakeholders.
 
@@ -53,7 +53,7 @@ System Design evaluating requirements and determining the use of load balancers,
 <table>
   <tr>
        <td width="33%">
-      <h3>🏦 Fintech Systems</h3>
+      <h3>🏦 Fintech </h3>
       • Real-time transaction processing<br>
       • Fraud detection algorithms<br>
       • Banking API ecosystems<br>
@@ -61,14 +61,13 @@ System Design evaluating requirements and determining the use of load balancers,
       • Multi-cloud environments (AWS, GCP, Azure)
     </td>
     <td width="33%">
-      <h3>🔐 CI/CD </h3>
-      • Security lifecycle management (SAST, DAST)<br>
-      • Vulnerability patching and risk management<br>
+      <h3>🔐 Security System to Police </h3>
+      • Real-time transaction processing<br>
       • Security monitoring solutions<br>
       • Observability and Monitoring
     </td>
     <td width="33%">
-      <h3>💻 Software Development & System Architecture in Big Tech</h3>
+      <h3>💻 BigTechs Market Place </h3>
       • Microservices architecture and design<br>
       • High-performance backend systems (Java, Golang, Spring Boot)<br>
       • Cloud-native applications (AWS, Azure, Google Cloud)<br>
