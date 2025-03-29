@@ -1,5 +1,5 @@
 # Dennis Rojas Pereira  
-**Software Architect** | Microservices, System Design | MBA  
+**Software Architect** | 
 
 I am fluent in Spanish(native) and Portuguese (native), as well as proficient in English, enabling me to communicate effectively with international teams and stakeholders.
 
@@ -21,7 +21,7 @@ System Design evaluating requirements and determining the use of load balancers,
 **15+ years** of experience in software engineering with a strong focus on system architecture and microservices. Specializing in:
 
 - Microservices Architecture & Design
-- Cloud Computing (AWS, Azure, Google Cloud)
+- Cloud Computing (AWS, Azure, Google Cloud) with Cloud Native
 - High-Performance Backend Systems
 - Security-Focused Development
 - Leadership and Mentorship in Agile Environments
@@ -32,6 +32,8 @@ System Design evaluating requirements and determining the use of load balancers,
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![Node](https://img.shields.io/badge/-Node-00ADD8?logo=nodejs&logoColor=white)
+![React](https://img.shields.io/badge/-React-00ADD8?logo=react&logoColor=yellow)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 ### **Cloud & DevOps**
@@ -42,7 +44,9 @@ System Design evaluating requirements and determining the use of load balancers,
 ### **Data & AI**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-DC382D?logo=kafka&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-DC382D?logo=mongodb&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-FF6F00?logo=opencv&logoColor=yellow)
 
 ## 🏆 Industry Expertise
 
