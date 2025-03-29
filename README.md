@@ -1,9 +1,18 @@
 # Dennis Rojas Pereira  
 **Software Architect** | Microservices, System Design | MBA  
 
+I am fluent in Spanish(native) and Portuguese (native), as well as proficient in English, enabling me to communicate effectively with international teams and stakeholders.
+
+My focus has been on integrating complex software systems that enhance security and operational efficiency. In these projects, I’ve collaborated with teams from Brazil, India, Israel, Argentina, Colombia, Mexico, and the USA, requiring strong coordination and proactive leadership to drive activities and deliver optimal business outcomes.
+
+With expertise in microservices and software development, I have led initiatives to modernize security lifecycle processes and system architectures. I’ve implemented strategies using SAST and DAST to strengthen security postures and supported infrastructure upgrades aligned with business objectives.
+
+By leveraging SCRUM and LEAN methodologies, I have contributed to team growth and goal achievement. 
+
+System Design evaluating requirements and determining the use of load balancers, rate limits, oauth2, vendor clouds(AWS, Azure and Google), message brokers, CQRS, event driven architecture and uses of non-blocking frameworks.
+
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dennis-rojas-5503b138)
 [![Email](https://img.shields.io/badge/-Reach%20via%20Email-red?style=for-the-badge&logo=gmail)](mailto:dennisrojaspereira@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Message%20on%20Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/dennisrojaspereira)
 
 <img align="right" src="https://komarev.com/ghpvc/?username=dennisrojaspereira&color=blueviolet" alt="Profile views">
 
